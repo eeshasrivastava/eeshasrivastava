@@ -1,4 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Eesha Srivastava and I'm a Frontend Web & Android Developer. Being a tech-enthusiast, I love to explore new technolgies and implement machine learning algorithms in real life problems. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
  
 <!--
 **eeshasrivastava/eeshasrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +17,13 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeshasrivastava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✍ Blog & Writing:
+### ✍ Blog & Writing:
 
 Apart from coding, I also write blog posts, most of which you can find on [Medium](https://eeshu020202.medium.com/).
-
+ 
 I write about things I am familiar with, things that I am learning day to day.
 
-## Technologies & Tools:
+### Technologies & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -43,4 +44,12 @@ I write about things I am familiar with, things that I am learning day to day.
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
 
+<!-- Icons -->
 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/i_eeshasri
+[2]: https://www.linkedin.com/in/eeshasrivastava02/
