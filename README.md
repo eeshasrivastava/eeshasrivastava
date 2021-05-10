@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Eesha Srivastava and I'm a Frontend Web & Android Developer. Being a tech-enthusiast, I love to explore new technolgies and implement machine learning algorithms to solve real life problems. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My name is Eesha Srivastava and I am a Frontend Web & Android Developer. Being a tech-enthusiast, I love to explore new technolgies and implement machine learning algorithms to solve real life problems. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
  
 <!--
 **eeshasrivastava/eeshasrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
