@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Eesha Srivastava and I am a FullStack Web Developer, UI/UX Designer and a Web3 enthusiast. Being a tech-enthusiast, I love to explore new technolgies and to devise the solution to the problems. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My name is Eesha Srivastava and I like to explore stuff around Big Data and AI. I have experience building & optimizing scalable data pipelines, cloud-based workflows and analytical solutions. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
  
 <!--
 **eeshasrivastava/eeshasrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
